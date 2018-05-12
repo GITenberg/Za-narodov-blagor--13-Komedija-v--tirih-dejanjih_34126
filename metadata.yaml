@@ -1,0 +1,28 @@
+_repo: Za-narodov-blagor--13-Komedija-v--tirih-dejanjih_34126
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cankar, Ivan
+    alias: Цанкар, Иван
+    birthdate: 1876
+    deathdate: 1918
+    gutenberg_agent_id: '36802'
+    url: http://www.gutenberg.org/2009/agents/36802
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Cankar
+description: ''
+gutenberg_issued: '2010-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34126'
+language: sl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PG'
+title: 'Za narodov blagor: Komedija v štirih dejanjih'
+url: http://www.gutenberg.org/ebooks/34126
